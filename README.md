@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Parth Garge</h1>
+<h1 align="center">Hi 👋, I am Parth Garge</h1>
 
 <h3 align="center">
 AI Engineer • Data Science • Machine Learning • Generative AI • AWS Cloud
@@ -10,25 +10,33 @@ AI Engineer • Data Science • Machine Learning • Generative AI • AWS Clou
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Computer+Vision+Explorer;Building+Real-World+AI+Solutions" />
 </p>
 
+<p align="center">
+
+<a href="https://github.com/parth94g-vp">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:parth94g@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/parth-garge-7472753b3?utm_source=share_via&utm_content=profile&utm_medium=member_android/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 # 💫 About Me
 
-- 🎓 M.Sc. Data Science Student
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
-- 🌱 Currently learning **Agentic AI, LLMs, LangGraph, MLOps & AWS**
-- 🔭 Currently building **AI-powered Healthcare, Agriculture & Cloud Applications**
-- 👯 Looking to collaborate on **AI, Open Source and Generative AI Projects**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, NLP, AWS and Streamlit**
-- ⚡ Fun Fact: **I enjoy solving real-world problems through AI-powered solutions.**
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
+-  M.Sc. Data Science Student
+-  Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+-  Currently building **AI-powered Healthcare, Agriculture & Cloud Applications**
+-  Currently learning **Agentic AI, LLMs, LangGraph, MLOps & AWS**
+-  Looking to collaborate on **AI, Open Source & Generative AI Projects**
+-  Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, NLP, & Streamlit**
+-  Fun Fact: **I enjoy solving real-world problems through AI-powered solutions.**
 
 ---
 
@@ -37,7 +45,7 @@ AI Engineer • Data Science • Machine Learning • Generative AI • AWS Clou
 <table>
 
 <tr>
-<td><strong>💻 Programming Languages</strong></td>
+<td width="250"><strong>💻 Programming Languages</strong></td>
 <td>
 <img height="40" src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
 </td>
@@ -62,7 +70,7 @@ LangChain • LangGraph • Hugging Face • Transformers • LlamaIndex • RAG
 <td><strong>🌐 Web Technologies</strong></td>
 <td>
 <img height="40" src="https://skillicons.dev/icons?i=html,css"/>
-&nbsp;&nbsp;Streamlit
+&nbsp;&nbsp;• Streamlit
 </td>
 </tr>
 
@@ -70,7 +78,7 @@ LangChain • LangGraph • Hugging Face • Transformers • LlamaIndex • RAG
 <td><strong>⚙️ AI Backend Development</strong></td>
 <td>
 <img height="40" src="https://skillicons.dev/icons?i=flask,fastapi"/>
-&nbsp;&nbsp;Python
+&nbsp;&nbsp;• Python
 </td>
 </tr>
 
@@ -92,7 +100,7 @@ LangChain • LangGraph • Hugging Face • Transformers • LlamaIndex • RAG
 <td><strong>🛠️ Development Tools</strong></td>
 <td>
 <img height="40" src="https://skillicons.dev/icons?i=vscode,figma"/>
-&nbsp;&nbsp;Google Colab • Jupyter Notebook
+&nbsp;&nbsp;• Google Colab • Jupyter Notebook
 </td>
 </tr>
 
@@ -116,7 +124,7 @@ Agentic AI • MCP • AI Agents • LangSmith • AWS Bedrock • Vector Databa
 
 # 🤝 Let's Connect
 
-I'm always open to collaborating on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI** projects. If you're working on something exciting or would like to collaborate, feel free to connect.
+I'm always open to collaborating on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI** projects. Whether you're building something exciting, contributing to open source, or exploring innovative AI ideas, I'd love to connect and collaborate.
 
 ---
 
@@ -124,4 +132,4 @@ I'm always open to collaborating on **Artificial Intelligence, Machine Learning,
 ⭐ Thanks for visiting my profile! Happy Coding! 🚀
 </h3>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
