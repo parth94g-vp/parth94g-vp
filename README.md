@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I am Parth Garge</h1>
 
 <h3 align="center">
-AI Engineer • Data Science • Machine Learning • Generative AI • AWS Cloud
+AI Engineer | Generative AI | Machine Learning | Data Science
 </h3>
 
 <p align="center">
@@ -35,7 +35,7 @@ AI Engineer • Data Science • Machine Learning • Generative AI • AWS Clou
 -  Currently building **AI-powered Healthcare, Agriculture & Cloud Applications**
 -  Currently learning **Agentic AI, LLMs, LangGraph, MLOps & AWS**
 -  Looking to collaborate on **AI, Open Source & Generative AI Projects**
--  Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, NLP, & Streamlit**
+-  Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, NLP, AWS & Streamlit**
 -  Fun Fact: **I enjoy solving real-world problems through AI-powered solutions.**
 
 ---
@@ -45,9 +45,9 @@ AI Engineer • Data Science • Machine Learning • Generative AI • AWS Clou
 <table>
 
 <tr>
-<td width="250"><strong>💻 Programming Languages</strong></td>
+<td width="260"><strong>💻 Programming Language</strong></td>
 <td>
-<img height="40" src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
+<img height="40" src="https://skillicons.dev/icons?i=python"/>
 </td>
 </tr>
 
@@ -107,7 +107,7 @@ LangChain • LangGraph • Hugging Face • Transformers • LlamaIndex • RAG
 <tr>
 <td><strong>📊 Data Analytics</strong></td>
 <td>
-Power BI • Excel • EDA • Data Visualization
+Tableau • Excel • EDA • Data Visualization
 </td>
 </tr>
 
@@ -122,9 +122,23 @@ Agentic AI • MCP • AI Agents • LangSmith • AWS Bedrock • Vector Databa
 
 ---
 
-# 🤝 Let's Connect
+# 🤝🏻 Collaboration
 
-I'm always open to collaborating on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI** projects. Whether you're building something exciting, contributing to open source, or exploring innovative AI ideas, I'd love to connect and collaborate.
+I'm always open to collaborating on exciting projects related to **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, and Data Science**.
+
+If you have an innovative idea, an open-source project, or an opportunity to build something impactful, feel free to reach out.
+
+**Let's create something awesome together! 🚀**
+
+---
+
+# 🖋️ Contribute
+
+Contributions are always welcome!
+
+If you'd like to improve any of my repositories, fix bugs, suggest new features, or enhance documentation, feel free to **Fork** the repository, create a new branch, and submit a **Pull Request (PR)**.
+
+Every contribution, big or small, is greatly appreciated. ⭐
 
 ---
 
