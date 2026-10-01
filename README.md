@@ -114,7 +114,7 @@ Tableau • Excel • EDA • Data Visualization
 <tr>
 <td><strong>🚀 Currently Exploring</strong></td>
 <td>
-Agentic AI • MCP • AI Agents • LangSmith • AWS Bedrock • Vector Databases
+Agentic AI • AI Agents • LangSmith • AWS Bedrock 
 </td>
 </tr>
 
