@@ -20,7 +20,7 @@ AI Engineer | Generative AI | Machine Learning | Data Science
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/parth-garge-7472753b3?utm_source=share_via&utm_content=profile&utm_medium=member_android/">
+<a href="www.linkedin.com/in/parth-garge-7472753b3">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
